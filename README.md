@@ -1,0 +1,2 @@
+# global-run-100-gates
+Offizielle Website und Datenschutz für mein Spiel Global Run 100 Gates (GLOB)
